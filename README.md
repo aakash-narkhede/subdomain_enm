@@ -45,3 +45,5 @@ chmod +x crt_list.sh
 ```bash
 ./crt_list.sh example.com > domains.txt
 ```
+**🎨 Demo**
+![Demo](./demo.gif)
