@@ -34,8 +34,8 @@ brew install curl jq pv
 ```
 **🏃 Usage**
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/crt_list.sh.git
-cd crt_list.sh
+git clone https://github.com/aakash-narkhede/subdomain_enm.git
+cd subdomain_enm
 chmod +x crt_list.sh
 
 # Run the script
