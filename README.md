@@ -27,3 +27,21 @@ Perfect for:
 ```bash
 sudo apt update
 sudo apt install curl jq pv -y
+```
+**macOS (Homebrew):**
+```bash
+brew install curl jq pv
+```
+**🏃 Usage**
+```bash
+git clone https://github.com/<YOUR_GITHUB_USERNAME>/crt_list.sh.git
+cd crt_list.sh
+chmod +x crt_list.sh
+
+# Run the script
+./crt_list.sh example.com
+```
+**Save output to a file:**
+```bash
+./crt_list.sh example.com > domains.txt
+```
